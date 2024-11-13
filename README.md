@@ -73,7 +73,7 @@ To run this project locally, follow these steps:
 If you'd like to reach out, feel free to connect with me:
 
 - **Email:** rachitap89@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/rachitapant
+- **LinkedIn:** [https://www.linkedin.com/in/rachitapant](https://www.linkedin.com/in/rachita-pant/)
 
 
 ---
