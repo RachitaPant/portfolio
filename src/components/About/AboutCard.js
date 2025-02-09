@@ -11,22 +11,22 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Rachita Pant </span>
             from <span className="purple"> Dehradun, India.</span>
             <br />
-            I am currently employed as a frontend intern at FuelCab India.
+            I am currently a Computer Science Engineering student at GBPIET, Pauri Garhwal
             <br />
-            currently pursuing my bachelors degree in computer science & engineering at GBPIET, Pauri.
+            I love to build websites and native apps.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Reading book , my favourite being The Mountain is You
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Writing Tech Blogs , love sharing what I learn
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Travelling , to re-energize and refresh
             </li>
           </ul>
 
